@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sachin Wickramasinghe
 - 👀 I’m interested in Data Science and Software Engineering
-- 🌱 I’m currently learning the basics of Software Engineering
+
 
 
 <!---
