@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sachin Wickramasinghe
-- 👀 I’m interested in Data Science and Software Engineering
+- 👀 I’m interested in Cloud and DevOps Engineering
 
 
 
